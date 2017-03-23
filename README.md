@@ -3,10 +3,10 @@
 **ABOUT:**
 * Dynamic Gapps is a minimal gapps package for arm and arm64 devices
 * Includes Core Google syncing apks
-* Includes Google App, GoogleTTS, Facelock, Hangouts
+* Includes Google App, GoogleTTS, Facelock, Hangouts**
 * Legacy support for swyping on AOSP LatinIME Keyboard
 
-**Hangouts is needed for Project Fi Wifi Calling and is disabled by default
+**Hangouts is needed for Project Fi Wifi Calling
 
 **HOW TO USE:**
 * cd to the base of this repo
