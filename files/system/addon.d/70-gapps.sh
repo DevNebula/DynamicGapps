@@ -37,7 +37,6 @@ cat <<EOF
   app/FaceLock/FaceLock.apk
   app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
   app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
-  app/GoogleVrCore/GoogleVrCore.apk
   app/GoogleTTS/GoogleTTS.apk
   app/Hangouts/Hangouts.apk
   etc/permissions/com.google.android.camera.experimental2016.xml

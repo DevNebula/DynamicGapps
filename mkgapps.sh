@@ -43,8 +43,6 @@ MINSIGNAPK="$TOOLSDIR"/minsignapk.jar
 TESTKEYPEM="$TOOLSDIR"/testkey.x509.pem
 TESTKEYPK8="$TOOLSDIR"/testkey.pk8
 APPDIRS="facelock/arm/app/FaceLock
-         googlevrcore/arm/app/GoogleVrCore
-         googlevrcore/arm64/app/GoogleVrCore
          hangouts/arm/app/Hangouts
          hangouts/arm64/app/Hangouts
          prebuiltgmscore/arm/priv-app/PrebuiltGmsCore

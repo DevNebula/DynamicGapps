@@ -129,9 +129,6 @@ unzip -o "$zipfile" "system/*" -d $ROOT
 unzip -o "$zipfile" "facelock/*" -d /tmp
 set_perm 0 0 0777 /tmp/facelock/facelock.sh
 /tmp/facelock/facelock.sh
-unzip -o "$zipfile" "googlevrcore/*" -d /tmp
-set_perm 0 0 0777 /tmp/googlevrcore/googlevrcore.sh
-/tmp/googlevrcore/googlevrcore.sh
 unzip -o "$zipfile" "hangouts/*" -d /tmp
 set_perm 0 0 0777 /tmp/hangouts/hangouts.sh
 /tmp/hangouts/hangouts.sh
